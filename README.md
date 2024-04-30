@@ -32,9 +32,6 @@ I'm a highly motivated and enthusiastic student with a strong foundation in tech
 ## Extras
 - Earned a Golden Badge in SQL from HackerRank
 
-## Projects
-- **College Computer Network Design:** Designed a college computer network using Cisco Packet Tracer, showcasing proficiency in network design and configuration.
-- **Porsche Website Replication:** Successfully replicated a Porsche website utilizing HTML, CSS, and JavaScript.
 
 ## Workshops
 - Completed Data Tableau Workshop at Jobaaj Learnings, gaining proficiency in data visualization and analytics with Tableau.
