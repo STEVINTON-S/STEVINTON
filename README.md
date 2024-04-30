@@ -41,5 +41,4 @@ I'm a highly motivated and enthusiastic student with a strong foundation in tech
 
 ## Connect with Me
 - LinkedIn: (https://www.linkedin.com/in/stevinton-stev/)
-- GitHub: (https://github.com/stevinton)
 - Email: (stevinton9@gmail.com)
