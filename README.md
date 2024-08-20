@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 I'm a highly motivated and enthusiastic student with a strong foundation in technical skills and a passion for learning and problem-solving.
 
 ## Technical Skills
-- Programming Languages: C, Python, JavaScript
-- Web Development: HTML, CSS, Bootstrap
+- Programming Languages: C, Python, JavaScript, Java
+- Web Development: HTML, CSS, Bootstrap, MERN Stack
 - Database: PostgreSQL
 - Networking: Cisco Packet Tracer
 
