@@ -22,6 +22,7 @@ I'm a highly motivated and enthusiastic student with a strong foundation in tech
 - CCNA by Cisco
 - JavaScript Programming by Meta on Coursera
 - Developing Websites and Front-End Apps with Bootstrap by IBM on Coursera
+- Developing Backend Apps using Node JS and Express JS by IBM on Coursera
 
 ## Soft Skills
 - Problem Solving
